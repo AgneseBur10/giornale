@@ -1,3 +1,10 @@
 body {
     font-size: 24px;
+    background-color: rgb(162, 231, 208);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 100%;
+    max-width: 320px;
 }
